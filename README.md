@@ -1,3 +1,15 @@
+# Simple Contact Management App with typescript and redux 
+
+The app has feature to add contact, edit and ,delete
+the edit feature yet not completed 
+
+also has a dashboard for fetching api data and show graphs using recharts js 
+
+ 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
